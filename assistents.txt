@@ -1,4 +1,12 @@
 Toni Jimenez
 Ian Smythe
 Jonathan Tejero
+<<<<<<< HEAD
 Alex Neri
+=======
+
+
+
+Ferran Ramírez
+Pepito Grillo
+>>>>>>> upstream/master
